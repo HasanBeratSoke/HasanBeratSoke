@@ -1,5 +1,5 @@
 
-# Merhaba, ben Hasan Berat!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hi, I'm Hasan Berat!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 <div id="header" align="center">
   <img src="https://dev-to-uploads.s3.amazonaws.com/i/qky7jxrn69tqt1gaxbmm.gif" width="500"/>
@@ -25,9 +25,9 @@
      <img src="https://komarev.com/ghpvc/?username=HasanBeratSoke&style=for-the-badge&color=blue" alt="" />
 </div>
 
-- :telescope: Bilişim sistemleri mühendisliği öğrencisiyim. Görüntü işleme, derin öğrenme, veri bilimi konularına ilgiliyim.
+- :telescope: Interested in computer vision, machine learning, deep learning and data science.
 
-- :seedling: Şu anda ise YOLOV3 ve deepsort algoritmasını öğrenmeye çalışıyorum.
+- :seedling: I’m currently learning YOLOv3 and Deepsort.
 
 
 
