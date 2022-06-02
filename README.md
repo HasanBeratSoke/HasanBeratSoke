@@ -1,5 +1,5 @@
 
-# Hi, I'm Hasan Berat!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hi, I'm Hasan Berat! <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">-->
 
 <div id="header" align="center">
   <img src="https://dev-to-uploads.s3.amazonaws.com/i/qky7jxrn69tqt1gaxbmm.gif" width="500"/>
